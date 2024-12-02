@@ -102,5 +102,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Tesla stock data source: Yahoo Finance.
 - Inspiration: Time series forecasting applications in finance.
 
-![Project Illustration](tesla.png)
+![Project Illustration](tsla.png)
 
