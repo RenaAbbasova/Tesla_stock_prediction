@@ -61,7 +61,7 @@ The dataset consists of Tesla stock price data obtained from a public source. Ke
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/RenaAbbasova/Tesla_stock_prediction.git
    ```
 2. Install dependencies:
    ```bash
