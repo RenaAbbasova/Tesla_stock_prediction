@@ -1,5 +1,5 @@
 # Tesla Stock Price Prediction
-![Project Illustration](tesla.png)
+
 
 ## Project Overview
 This project focuses on analyzing and forecasting Tesla's stock prices using a combination of traditional statistical models and deep learning techniques. The primary goal is to predict the future behavior of Tesla's stock, leveraging data from 2010 to 2022.
@@ -101,4 +101,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Acknowledgments
 - Tesla stock data source: Yahoo Finance.
 - Inspiration: Time series forecasting applications in finance.
+
+![Project Illustration](tesla.png)
 
